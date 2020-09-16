@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of these U.S. states does NOT border Canada?",
+      "choices": [
+        "Indiana",
+        "Minnesota",
+        "Maine",
+        "Alaska"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 2,
+      "question": "Which of these countries was NOT a part of the Soviet Union?",
+      "choices": [
+        "Georgia",
+        "Belarus",
+        "Poland",
+        "Ukraine"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which of these cities is NOT a national capital?",
+      "choices": [
+        "Sydney",
+        "Prague",
+        "Bangkok",
+        "Cairo"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "Which of these cities DOESN'T border the Mediterranean Sea?",
+      "choices": [
+        "Alexandria",
+        "Lisbon",
+        "Monaco",
+        "Barcelona"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Which of these countries was NEVER part of the British Empire?",
+      "choices": [
+        "New Zealand",
+        "Ireland",
+        "Kenya",
+        "Thailand"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Which one of these cities is NOT in the Southern Hemisphere?",
+      "choices": [
+        "Brasilia",
+        "Colombo",
+        "Johannesburg",
+        "Brisbane"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": " Which one of these countries is NOT in Central America?",
+      "choices": [
+        "Honduras",
+        "Suriname",
+        "Panama",
+        "Belize"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which of these cities does NOT border the Great Lakes?",
+      "choices": [
+        "Toronto",
+        "Cleveland",
+        "Chicago",
+        "Pittsburgh"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Which of these mountain ranges is NOT in Europe?",
+      "choices": [
+        "Carpathian Mountains",
+        "The Pyrenees",
+        "Atlas Mountains",
+        "The Alps"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which of these things is NOT located in Africa?",
+      "choices": [
+        "Zambezi River",
+        "Aswan Dam",
+        "Gobi Desert",
+        "Lake Victoria"
+      ],
+      "answer": 2
+    }
+  ]
+}
